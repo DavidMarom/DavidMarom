@@ -1,4 +1,3 @@
-<p style="color:#dddddd">Main stack: React, Node.js, Mongo.</p><br />
+Main stack: React, Node.js, Mongo.
 Also working on: Vue, Go, Python, PHP, SQL.
 OS: ubuntu, windows
-
