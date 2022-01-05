@@ -1,10 +1,4 @@
-<style>
-.font {
-  color : #FF0000;
-  }
-</style>
-
-<div class="font">
-Main stack: React, Node.js, Mongo.<br />
+<h1>Main stack: React, Node.js, Mongo.</h1><br />
 Also working on: Vue, Go, Python, PHP, SQL.
-</div>
+OS: ubuntu, windows
+
