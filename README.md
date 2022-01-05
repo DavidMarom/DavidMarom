@@ -1,6 +1,7 @@
 <style>
 .font {
   color : #FF0000;
+  }
 </style>
 
 <div class="font">
