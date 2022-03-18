@@ -1,6 +1,6 @@
-<table border="0px">
+<table border="0">
   <tr>
-    <td>
+    <td border="0">
       <p>Main stack: React(TypeScript), Node.js, Mongo.</p>
       <p>Also working on: Vue, Go, Python, PHP, SQL.<br/></p>
       <p>OS: mac, ubuntu</p>
