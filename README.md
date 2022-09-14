@@ -1,6 +1,7 @@
-Main stack: React(TypeScript), Node.js, Mongo.<br/>
-Also working on: Vue, Go, Python, PHP, SQL.<br/>
-OS: mac, ubuntu<br/><br/>
+Stack: React (Typescript), NodeJS, MongoDB, SQL.
+Using saga redux, styled components and all modern known libraries...
+Also experienced with Vue, Angular, Python, Java, PHP, WordPress,  FluxDB, GO
+OS: Mac, Ubuntu.<br/><br/>
 
 Projects : [clockin-demo](https://clockin-demo.com/) | [Health-e market](https://health-e.herokuapp.com/#/)
 
