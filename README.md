@@ -23,7 +23,7 @@ Next.js · TypeScript · MongoDB · Zustand · Tailwind · Vercel · TanStack
 [redberry-crm.com](https://www.redberry-crm.com)
 
 👫 **[Mefargenim](https://github.com/DavidMarom/mefargenim)** - Social network  
-TypeScript · React
+TypeScript · React  
 [mefargenim.biz](https://www.mefargenim.biz)
 
 ---
