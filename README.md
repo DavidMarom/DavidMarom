@@ -1,6 +1,6 @@
-# David Marom — Senior Fullstack Developer
+# David Marom - Senior Fullstack Developer
 
-15+ years building products from concept to production — fintech, IoT, SaaS, and education.  
+15+ years building products from concept to production - fintech, IoT, SaaS, and education.  
 Currently open to fullstack roles.
 
 📧 davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) · [stealthcode.co](https://www.stealthcode.co)
@@ -20,10 +20,10 @@ Currently open to fullstack roles.
 
 ## Experience Highlights
 
-- **Matrix IT** — Built Open Banking products for Israeli financial sector (React, Python/Flask, AWS)
-- **Karma** — Core web app for a platform with **6.5M+ active users** (React, Angular)
-- **Y&A Software** — Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript
-- **IDF School of Computer Science (בסמ"ח)** — Technical instructor, 4 developer cohorts
+- **Matrix IT** - Built Open Banking products for Israeli financial sector (React, Python/Flask, AWS)
+- **Karma** - Core web app for a platform with **6.5M+ active users** (React, Angular)
+- **Y&A Software** - Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript
+- **IDF School of Computer Science (בסמ"ח)** - Technical instructor, 4 developer cohorts
 
 ---
 
