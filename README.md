@@ -1,4 +1,4 @@
-# David Marom — Senior Fullstack Developer
+# David Marom - Senior Fullstack Developer
 
 15+ years building products across fintech, IoT, SaaS, and education.  
 Currently open to fullstack roles.
