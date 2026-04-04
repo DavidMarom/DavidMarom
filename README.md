@@ -18,12 +18,13 @@ Currently open to fullstack roles.
 
 ## Featured Projects
 
-🚀 **[Redberry CRM](https://github.com/DavidMarom/redberry-crm)** — Lightweight CRM for small businesses  
-Next.js · TypeScript · MongoDB · Zustand · Tailwind · Vercel  
+🚀 **[Redberry CRM](https://github.com/DavidMarom/redberry-crm)** - Lightweight CRM for small businesses  
+Next.js · TypeScript · MongoDB · Zustand · Tailwind · Vercel · TanStack  
 [redberry-crm.com](https://www.redberry-crm.com)
 
-👫 **[Mefargenim](https://github.com/DavidMarom/mefargenim)** — Social network  
+👫 **[Mefargenim](https://github.com/DavidMarom/mefargenim)** - Social network  
 TypeScript · React
+[mefargenim.biz](https://www.mefargenim.biz)
 
 ---
 
