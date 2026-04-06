@@ -1,7 +1,7 @@
 # David Marom - Senior Fullstack Developer
 
-15+ years building products from concept to production - fintech, adTech, IoT, SaaS, and education.  
-Currently open to fullstack roles.
+**15+ years shipping production products** across fintech, adTech, IoT, SaaS, and education.  
+Co-founder of [StealthCode](https://www.stealthcode.co) · Technical instructor at IDF School of Computer Science · Open to senior fullstack roles.
 
 📧 davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) · [stealthcode.co](https://www.stealthcode.co)
 
@@ -20,17 +20,21 @@ Currently open to fullstack roles.
 
 ## Experience Highlights
 
-- **StealthCode** - Co-founder, building webapps for startups and SMBs. Technical instructor at IDF School of Computer Science (בסמ"ח) (React, Next.js, Node.js, AWS)
-- **Matrix IT** - Built Open Banking products for Israeli financial sector (React, Python/Flask, AWS)
-- **Karma** - Core web app for a platform with **6.5M+ active users** (React, Angular)
-- **Y&A Software** - Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript
+| Company | Role | Impact |
+|---|---|---|
+| **StealthCode** | Co-founder | End-to-end web products for startups and SMBs; teaching React, Next.js, Node.js, AWS at IDF School of Computer Science |
+| **Matrix IT** | Senior Developer | Open Banking platform for the Israeli financial sector (React, Python/Flask, AWS) |
+| **Karma** | Senior Developer | Core web app serving **6.5M+ active users** (React, Angular) |
+| **Y&A Software** | Developer | Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript |
 
 ---
 
 ## Featured Projects
 
-🚀 **[Redberry CRM](https://github.com/DavidMarom/redberry-crm)** - Lightweight CRM for small businesses  
-Next.js · TypeScript · MongoDB · Zustand · Tailwind · Vercel · [redberry-crm.com](https://www.redberry-crm.com)
+**[Redberry CRM](https://github.com/DavidMarom/redberry-crm)** - [redberry-crm.com](https://www.redberry-crm.com)  
+Lightweight CRM built for small businesses. Full-stack solo build from design to deployment.  
+`Next.js` `TypeScript` `MongoDB` `Zustand` `Tailwind` `Vercel`
 
-👫 **[Mefargenim](https://github.com/DavidMarom/mefargenim)** - Social network  
-TypeScript · React · [mefargenim.biz](https://www.mefargenim.biz)
+**[Mefargenim](https://github.com/DavidMarom/mefargenim)** - [mefargenim.biz](https://www.mefargenim.biz)  
+Social network application.  
+`TypeScript` `React`
