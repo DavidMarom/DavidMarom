@@ -20,10 +20,10 @@ Currently open to fullstack roles.
 
 ## Experience Highlights
 
+- **StealthCode** - Co-founder, building webapps for startups and SMBs. Technical instructor at IDF School of Computer Science (בסמ"ח) (React, Next.js, Node.js, AWS)
 - **Matrix IT** - Built Open Banking products for Israeli financial sector (React, Python/Flask, AWS)
 - **Karma** - Core web app for a platform with **6.5M+ active users** (React, Angular)
 - **Y&A Software** - Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript
-- **IDF School of Computer Science (בסמ"ח)** - Technical instructor, 4 developer cohorts
 
 ---
 
