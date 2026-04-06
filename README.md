@@ -1,6 +1,6 @@
 # David Marom - Senior Fullstack Developer
 
-15+ years building products from concept to production - fintech, IoT, SaaS, and education.  
+15+ years building products from concept to production - fintech, adTech, IoT, SaaS, and education.  
 Currently open to fullstack roles.
 
 📧 davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) · [stealthcode.co](https://www.stealthcode.co)
@@ -10,7 +10,7 @@ Currently open to fullstack roles.
 ## Stack
 
 **Frontend:** React, Next.js, TypeScript, Angular, Vue  
-**Backend:** Node.js, NestJS, Express, Python/Flask, PHP  
+**Backend:** Node.js, NestJS, Express, Python/Flask, PHP, .NET  
 **Cloud:** AWS (Lambda, Cognito, DynamoDB), Docker, Nginx  
 **DB:** PostgreSQL, MongoDB, MySQL, DynamoDB  
 **Auth & Security:** JWT, OAuth 2.0, mTLS  
