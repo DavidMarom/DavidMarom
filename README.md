@@ -1,6 +1,6 @@
 # David Marom - Senior Fullstack Developer
 
-**15+ years shipping production products** across fintech, adTech, IoT, SaaS, and education.  
+**12+ years shipping production products** across fintech, adTech, IoT, SaaS, and education.  
 Co-founder of [StealthCode](https://www.stealthcode.co) · Technical instructor at IDF School of Computer Science · Open to senior fullstack roles.
 
 📧 davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) · [stealthcode.co](https://www.stealthcode.co)
