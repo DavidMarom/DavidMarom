@@ -27,14 +27,4 @@ Co-founder of [StealthCode](https://www.stealthcode.co) · Technical instructor 
 | **Karma** | Senior Developer | Core web app serving **6.5M+ active users** (React, Angular) |
 | **Y&A Software** | Developer | Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript |
 
----
 
-## Featured Projects
-
-**[Redberry CRM](https://github.com/DavidMarom/redberry-crm)** - [redberry-crm.com](https://www.redberry-crm.com)  
-Lightweight CRM built for small businesses. Full-stack solo build from design to deployment.  
-`Next.js` `TypeScript` `MongoDB` `Zustand` `Tailwind` `Vercel`
-
-**[Mefargenim](https://github.com/DavidMarom/mefargenim)** - [mefargenim.biz](https://www.mefargenim.biz)  
-Social network application.  
-`TypeScript` `React`
