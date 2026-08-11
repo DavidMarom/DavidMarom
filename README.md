@@ -15,5 +15,5 @@ davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) 
 **DB:** PostgreSQL, MongoDB, MySQL, DynamoDB  
 **Auth & Security:** JWT, OAuth 2.0, mTLS  
 **Architecture:** Microservices, REST, OpenAPI  
-**AI** yes
+**AI:** yes
 
