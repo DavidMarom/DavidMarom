@@ -15,16 +15,5 @@ davidmarom.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/maromdavid/) 
 **DB:** PostgreSQL, MongoDB, MySQL, DynamoDB  
 **Auth & Security:** JWT, OAuth 2.0, mTLS  
 **Architecture:** Microservices, REST, OpenAPI
-
----
-
-## Experience Highlights
-
-| Company | Role | Impact |
-|---|---|---|
-| **StealthCode** | Co-founder | End-to-end web products for startups and SMBs; teaching React, Next.js, Node.js, AWS at IDF School of Computer Science |
-| **Matrix IT** | Senior Developer | Open Banking platform for the Israeli financial sector (React, Python/Flask, AWS) |
-| **Karma** | Senior Developer | Core web app serving **6.5M+ active users** (React, Angular) |
-| **Y&A Software** | Developer | Real-time IoT dashboards with MQTT, Grafana, Go, TypeScript |
-
+**AI**  yes
 
